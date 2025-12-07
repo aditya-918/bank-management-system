@@ -26,6 +26,7 @@ A desktop banking application developed in **Java Swing** using **Apache NetBean
 
 ## Project Structure
 
+```
 BankManagementSystem/
 ├─ src/ # Java source code
 ├─ nbproject/ # NetBeans project files
@@ -38,6 +39,7 @@ BankManagementSystem/
 │ └─ bankmanagementsystem_signuptwo.sql
 ├─ dist/ # Compiled runnable JAR after build
 ├─ README.md # This file
+```
 
 
 
